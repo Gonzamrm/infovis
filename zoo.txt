@@ -1,1 +1,10 @@
-Graduated Symbol Maps
+Visualization
+Patterns
+Visual encodings
+Graphical perception
+Time-series
+Stacked graph
+Small multiples
+Horizon graphs
+Scatter plot matrix (SPLOM)
+Force-directed layout
